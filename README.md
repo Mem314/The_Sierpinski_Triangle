@@ -7,4 +7,4 @@ The construction of the Sierpinski Triangle starts with an initial equilateral t
 In my case, however, I used a different formula to construct it. I also started with an equilateral triangle and then drew a point inside the triangle. From that point, I randomly selected one of the three vertices and drew a point at exactly half the distance between them. This process is repeated for an arbitrary number of points.
 After enough points have been drowned, the triangle can be seen.
 
-![The_Sierpinski_Triangle(1)](https://github.com/Mem314/The_Sierpinski_Triangle/assets/80833019/5a6e8ad2-41df-48d4-9bd6-c1e354ffae10)
+                    ![The_Sierpinski_Triangle(1)](https://github.com/Mem314/The_Sierpinski_Triangle/assets/80833019/5a6e8ad2-41df-48d4-9bd6-c1e354ffae10)
